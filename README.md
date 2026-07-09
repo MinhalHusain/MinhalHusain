@@ -1,10 +1,20 @@
+<div align="center">
+
 # Hi, I'm Minhal Husain 👋
 
-### Computer Science Student | Artificial Intelligence • Machine Learning • LLM Systems • Computer Vision
+### Computer Science Student • Artificial Intelligence • Machine Learning
 
-I'm a Computer Science student with a strong interest in **Artificial Intelligence, Machine Learning, Large Language Models, and Computer Vision**. I enjoy building practical AI applications, exploring modern AI techniques, and continuously improving my software engineering skills through hands-on projects.
+Building intelligent applications through curiosity, engineering, and continuous learning.
 
-I believe the best way to learn is by building. Every project I work on is an opportunity to deepen my understanding of AI while creating solutions that address real-world problems.
+</div>
+
+## 👨‍💻 About Me
+
+I'm a Computer Science student passionate about Artificial Intelligence, Machine Learning, Large Language Models, and Computer Vision.
+
+I enjoy turning ideas into practical AI applications while continuously improving my software engineering skills. My projects focus on solving real-world problems through thoughtful engineering, modern AI techniques, and hands-on development.
+
+Currently, I'm exploring how intelligent systems can become more efficient, reliable, and useful through better model design, routing strategies, and real-world deployment.
 
 ---
 
@@ -96,16 +106,6 @@ A real-time driver drowsiness detection system built using transfer learning wit
 
 ---
 
-## 📈 GitHub Stats
-
-<!-- GitHub Stats Card -->
-
-<!-- Top Languages Card -->
-
-<!-- GitHub Streak Card -->
-
----
-
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: *www.linkedin.com/in/minhal-husain*
@@ -113,4 +113,8 @@ A real-time driver drowsiness detection system built using transfer learning wit
 
 ---
 
+<div align="center">
+
 > **"Learning by building, improving through curiosity, and creating AI solutions that make a meaningful impact."**
+
+</div>
